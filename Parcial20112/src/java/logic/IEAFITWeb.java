@@ -7,7 +7,12 @@ package logic;
 /**
  *
  * @author Nandez
+ * 
+ * Esta es la clase del Servlet que invoca una de las 3 app. EI, PA o AR 
+ * 
  */
 public class IEAFITWeb {
+    
+    //ensayo
     
 }
